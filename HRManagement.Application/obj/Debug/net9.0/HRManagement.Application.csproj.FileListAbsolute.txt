@@ -1,0 +1,15 @@
+C:\Users\ucade\source\repos\HRManagement.Clear\HRManagement.Application\bin\Debug\net9.0\HRManagement.Application.deps.json
+C:\Users\ucade\source\repos\HRManagement.Clear\HRManagement.Application\bin\Debug\net9.0\HRManagement.Application.dll
+C:\Users\ucade\source\repos\HRManagement.Clear\HRManagement.Application\bin\Debug\net9.0\HRManagement.Application.pdb
+C:\Users\ucade\source\repos\HRManagement.Clear\HRManagement.Application\bin\Debug\net9.0\HRManagement.Domain.dll
+C:\Users\ucade\source\repos\HRManagement.Clear\HRManagement.Application\bin\Debug\net9.0\HRManagement.Domain.pdb
+C:\Users\ucade\source\repos\HRManagement.Clear\HRManagement.Application\obj\Debug\net9.0\HRManagement.Application.csproj.AssemblyReference.cache
+C:\Users\ucade\source\repos\HRManagement.Clear\HRManagement.Application\obj\Debug\net9.0\HRManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ucade\source\repos\HRManagement.Clear\HRManagement.Application\obj\Debug\net9.0\HRManagement.Application.AssemblyInfoInputs.cache
+C:\Users\ucade\source\repos\HRManagement.Clear\HRManagement.Application\obj\Debug\net9.0\HRManagement.Application.AssemblyInfo.cs
+C:\Users\ucade\source\repos\HRManagement.Clear\HRManagement.Application\obj\Debug\net9.0\HRManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\ucade\source\repos\HRManagement.Clear\HRManagement.Application\obj\Debug\net9.0\HRManage.380E2EFB.Up2Date
+C:\Users\ucade\source\repos\HRManagement.Clear\HRManagement.Application\obj\Debug\net9.0\HRManagement.Application.dll
+C:\Users\ucade\source\repos\HRManagement.Clear\HRManagement.Application\obj\Debug\net9.0\refint\HRManagement.Application.dll
+C:\Users\ucade\source\repos\HRManagement.Clear\HRManagement.Application\obj\Debug\net9.0\HRManagement.Application.pdb
+C:\Users\ucade\source\repos\HRManagement.Clear\HRManagement.Application\obj\Debug\net9.0\ref\HRManagement.Application.dll

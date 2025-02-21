@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|c:\\users\\ucade\\source\\repos\\hrmanagement.clear\\hrmanagement.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|solutionrelative:hrmanagement.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|c:\\users\\ucade\\source\\repos\\hrmanagement.clear\\hrmanagement.application\\features\\leavetype\\queries\\getleavetypedetails\\leavetypedetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|solutionrelative:hrmanagement.application\\features\\leavetype\\queries\\getleavetypedetails\\leavetypedetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|c:\\users\\ucade\\source\\repos\\hrmanagement.clear\\hrmanagement.application\\features\\leavetype\\commands\\deleteleavetype\\deleteleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|solutionrelative:hrmanagement.application\\features\\leavetype\\commands\\deleteleavetype\\deleteleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|c:\\users\\ucade\\source\\repos\\hrmanagement.clear\\hrmanagement.application\\features\\leavetype\\commands\\deleteleavetype\\deleteleavetypecommnad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|solutionrelative:hrmanagement.application\\features\\leavetype\\commands\\deleteleavetype\\deleteleavetypecommnad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|c:\\users\\ucade\\source\\repos\\hrmanagement.clear\\hrmanagement.application\\features\\leavetype\\commands\\updateleavetype\\updateleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|solutionrelative:hrmanagement.application\\features\\leavetype\\commands\\updateleavetype\\updateleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|c:\\users\\ucade\\source\\repos\\hrmanagement.clear\\hrmanagement.application\\features\\leavetype\\commands\\updateleavetype\\updateleavetypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|solutionrelative:hrmanagement.application\\features\\leavetype\\commands\\updateleavetype\\updateleavetypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|c:\\users\\ucade\\source\\repos\\hrmanagement.clear\\hrmanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|solutionrelative:hrmanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|c:\\users\\ucade\\source\\repos\\hrmanagement.clear\\hrmanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|solutionrelative:hrmanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CE48EB-D324-46F0-BF42-E0C8EF460D62}|HRManagement.Domain\\HRManagement.Domain.csproj|c:\\users\\ucade\\source\\repos\\hrmanagement.clear\\hrmanagement.domain\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CE48EB-D324-46F0-BF42-E0C8EF460D62}|HRManagement.Domain\\HRManagement.Domain.csproj|solutionrelative:hrmanagement.domain\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "HRManagement.Application\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "HRManagement.Application\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:37:36.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateLeaveTypeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
+              "RelativeDocumentMoniker": "HRManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
+              "RelativeToolTip": "HRManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:22:15.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateLeaveTypeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommand.cs",
+              "RelativeDocumentMoniker": "HRManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommand.cs",
+              "ToolTip": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommand.cs",
+              "RelativeToolTip": "HRManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:22:00.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteLeaveTypeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommandHandler.cs",
+              "RelativeDocumentMoniker": "HRManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommandHandler.cs",
+              "RelativeToolTip": "HRManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:21:44.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteLeaveTypeCommnad.cs",
+              "DocumentMoniker": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommnad.cs",
+              "RelativeDocumentMoniker": "HRManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommnad.cs",
+              "ToolTip": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommnad.cs",
+              "RelativeToolTip": "HRManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommnad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:21:28.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeaveTypeDetailsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\LeaveTypeDetailsQueryHandler.cs",
+              "RelativeDocumentMoniker": "HRManagement.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\LeaveTypeDetailsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\LeaveTypeDetailsQueryHandler.cs",
+              "RelativeToolTip": "HRManagement.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\LeaveTypeDetailsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:16:58.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateLeaveTypeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
+              "RelativeDocumentMoniker": "HRManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
+              "RelativeToolTip": "HRManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:15:41.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LeaveType.cs",
+              "DocumentMoniker": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Domain\\LeaveType.cs",
+              "RelativeDocumentMoniker": "HRManagement.Domain\\LeaveType.cs",
+              "ToolTip": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Domain\\LeaveType.cs",
+              "RelativeToolTip": "HRManagement.Domain\\LeaveType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:58:28.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateLeaveTypeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommand.cs",
+              "RelativeDocumentMoniker": "HRManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommand.cs",
+              "ToolTip": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommand.cs",
+              "RelativeToolTip": "HRManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:57:11.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|c:\\users\\ucade\\source\\repos\\hrmanagement.clear\\hrmanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|solutionrelative:hrmanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|c:\\users\\ucade\\source\\repos\\hrmanagement.clear\\hrmanagement.application\\hrmanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|solutionrelative:hrmanagement.application\\hrmanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HRManagement.Application",
+              "DocumentMoniker": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\HRManagement.Application.csproj",
+              "RelativeDocumentMoniker": "HRManagement.Application\\HRManagement.Application.csproj",
+              "ToolTip": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\HRManagement.Application.csproj",
+              "RelativeToolTip": "HRManagement.Application\\HRManagement.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-21T12:54:29.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateLeaveTypeCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandValidator.cs",
+              "RelativeDocumentMoniker": "HRManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandValidator.cs",
+              "ToolTip": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandValidator.cs",
+              "RelativeToolTip": "HRManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:53:40.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
