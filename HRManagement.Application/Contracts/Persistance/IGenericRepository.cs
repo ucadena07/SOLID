@@ -1,4 +1,6 @@
-﻿using HRManagement.Domain;
+﻿using HRManagement.Application.Features.LeaveType.Commands.CreateLeaveType;
+using HRManagement.Domain;
+using HRManagement.Domain.Common;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,11 +9,11 @@ using System.Threading.Tasks;
 
 namespace HRManagement.Application.Contracts.Persistance;
 
-public interface IGenericRepository<T> where T : class
+public interface IGenericRepository<T> where T : BaseEntity
 {
     Task<T> CreateAsync(T entity);
     Task<T> UpdateAsync(T entity);
-    Task<T> DeleteAsync(T entity);
+    Task DeleteAsync(T entity);
     Task<T> GetByIdAsync(int id);
     Task<IEnumerable<T>> GetAllAsync();
 
@@ -20,15 +22,5 @@ public interface IGenericRepository<T> where T : class
 
 public interface ILeaveTypeRepository : IGenericRepository<LeaveType>
 {
-
-}
-
-public interface ILeaveAllocationRepository : IGenericRepository<LeaveAllocation>
-{
-
-}
-
-public interface ILeaveRequestRepository : IGenericRepository<LeaveRequest>
-{
-
+    Task<bool> IsLeaveTypeUnique(string name);  
 }

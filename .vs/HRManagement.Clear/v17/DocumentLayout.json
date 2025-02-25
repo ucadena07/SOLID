@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|c:\\users\\ucade\\source\\repos\\hrmanagement.clear\\hrmanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|solutionrelative:hrmanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|c:\\users\\ucade\\source\\repos\\hrmanagement.clear\\hrmanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|solutionrelative:hrmanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|c:\\users\\ucade\\source\\repos\\hrmanagement.clear\\hrmanagement.application\\hrmanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|solutionrelative:hrmanagement.application\\hrmanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|c:\\users\\ucade\\source\\repos\\hrmanagement.clear\\hrmanagement.application\\features\\leavetype\\commands\\updateleavetype\\updateleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|solutionrelative:hrmanagement.application\\features\\leavetype\\commands\\updateleavetype\\updateleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|c:\\users\\ucade\\source\\repos\\hrmanagement.clear\\hrmanagement.application\\features\\leavetype\\queries\\getallleavetypes\\getleavetypequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|solutionrelative:hrmanagement.application\\features\\leavetype\\queries\\getallleavetypes\\getleavetypequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B2E899-83D3-41A5-9174-795012A970CA}|HRManagement.Infrastructure\\HRManagement.Infrastructure.csproj|c:\\users\\ucade\\source\\repos\\hrmanagement.clear\\hrmanagement.infrastructure\\infrastructureservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B2E899-83D3-41A5-9174-795012A970CA}|HRManagement.Infrastructure\\HRManagement.Infrastructure.csproj|solutionrelative:hrmanagement.infrastructure\\infrastructureservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B2E899-83D3-41A5-9174-795012A970CA}|HRManagement.Infrastructure\\HRManagement.Infrastructure.csproj|c:\\users\\ucade\\source\\repos\\hrmanagement.clear\\hrmanagement.infrastructure\\logging\\loggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B2E899-83D3-41A5-9174-795012A970CA}|HRManagement.Infrastructure\\HRManagement.Infrastructure.csproj|solutionrelative:hrmanagement.infrastructure\\logging\\loggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|c:\\users\\ucade\\source\\repos\\hrmanagement.clear\\hrmanagement.application\\contracts\\logging\\iapplogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|solutionrelative:hrmanagement.application\\contracts\\logging\\iapplogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B2E899-83D3-41A5-9174-795012A970CA}|HRManagement.Infrastructure\\HRManagement.Infrastructure.csproj|c:\\users\\ucade\\source\\repos\\hrmanagement.clear\\hrmanagement.infrastructure\\emailservice\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B2E899-83D3-41A5-9174-795012A970CA}|HRManagement.Infrastructure\\HRManagement.Infrastructure.csproj|solutionrelative:hrmanagement.infrastructure\\emailservice\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|c:\\users\\ucade\\source\\repos\\hrmanagement.clear\\hrmanagement.application\\models\\email\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|solutionrelative:hrmanagement.application\\models\\email\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|c:\\users\\ucade\\source\\repos\\hrmanagement.clear\\hrmanagement.application\\models\\email\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|solutionrelative:hrmanagement.application\\models\\email\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|c:\\users\\ucade\\source\\repos\\hrmanagement.clear\\hrmanagement.application\\contracts\\email\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B}|HRManagement.Application\\HRManagement.Application.csproj|solutionrelative:hrmanagement.application\\contracts\\email\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A063977-DB84-4C65-AF9D-E59C63FAA28B}|HRManagement.Persistence\\HRManagement.Persistence.csproj|c:\\users\\ucade\\source\\repos\\hrmanagement.clear\\hrmanagement.persistence\\persistanceserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A063977-DB84-4C65-AF9D-E59C63FAA28B}|HRManagement.Persistence\\HRManagement.Persistence.csproj|solutionrelative:hrmanagement.persistence\\persistanceserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +62,145 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HRManagement.Application",
-              "DocumentMoniker": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\HRManagement.Application.csproj",
-              "RelativeDocumentMoniker": "HRManagement.Application\\HRManagement.Application.csproj",
-              "ToolTip": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\HRManagement.Application.csproj",
-              "RelativeToolTip": "HRManagement.Application\\HRManagement.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-21T12:54:29.928Z",
+              "DocumentIndex": 0,
+              "Title": "CreateLeaveTypeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
+              "RelativeDocumentMoniker": "HRManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
+              "RelativeToolTip": "HRManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:24:14.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateLeaveTypeCommandValidator.cs",
-              "DocumentMoniker": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandValidator.cs",
-              "RelativeDocumentMoniker": "HRManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandValidator.cs",
-              "ToolTip": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandValidator.cs",
-              "RelativeToolTip": "HRManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandValidator.cs",
+              "DocumentIndex": 1,
+              "Title": "UpdateLeaveTypeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
+              "RelativeDocumentMoniker": "HRManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
+              "RelativeToolTip": "HRManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:23:39.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetLeaveTypeQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypeQueryHandler.cs",
+              "RelativeDocumentMoniker": "HRManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypeQueryHandler.cs",
+              "ToolTip": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypeQueryHandler.cs",
+              "RelativeToolTip": "HRManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypeQueryHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:21:56.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoggerAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Infrastructure\\Logging\\LoggerAdapter.cs",
+              "RelativeDocumentMoniker": "HRManagement.Infrastructure\\Logging\\LoggerAdapter.cs",
+              "ToolTip": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Infrastructure\\Logging\\LoggerAdapter.cs",
+              "RelativeToolTip": "HRManagement.Infrastructure\\Logging\\LoggerAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:16:42.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAppLogger.cs",
+              "DocumentMoniker": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Contracts\\Logging\\IAppLogger.cs",
+              "RelativeDocumentMoniker": "HRManagement.Application\\Contracts\\Logging\\IAppLogger.cs",
+              "ToolTip": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Contracts\\Logging\\IAppLogger.cs",
+              "RelativeToolTip": "HRManagement.Application\\Contracts\\Logging\\IAppLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:15:23.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Infrastructure\\EmailService\\EmailSender.cs",
+              "RelativeDocumentMoniker": "HRManagement.Infrastructure\\EmailService\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Infrastructure\\EmailService\\EmailSender.cs",
+              "RelativeToolTip": "HRManagement.Infrastructure\\EmailService\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:09:34.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Models\\Email\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "HRManagement.Application\\Models\\Email\\EmailSettings.cs",
+              "ToolTip": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Models\\Email\\EmailSettings.cs",
+              "RelativeToolTip": "HRManagement.Application\\Models\\Email\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:08:56.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailMessage.cs",
+              "DocumentMoniker": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Models\\Email\\EmailMessage.cs",
+              "RelativeDocumentMoniker": "HRManagement.Application\\Models\\Email\\EmailMessage.cs",
+              "ToolTip": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Models\\Email\\EmailMessage.cs",
+              "RelativeToolTip": "HRManagement.Application\\Models\\Email\\EmailMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:06:51.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Contracts\\Email\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "HRManagement.Application\\Contracts\\Email\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Application\\Contracts\\Email\\IEmailSender.cs",
+              "RelativeToolTip": "HRManagement.Application\\Contracts\\Email\\IEmailSender.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T12:53:40.11Z",
+              "WhenOpened": "2025-02-24T12:05:41.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersistanceServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Persistence\\PersistanceServiceRegistration.cs",
+              "RelativeDocumentMoniker": "HRManagement.Persistence\\PersistanceServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Persistence\\PersistanceServiceRegistration.cs",
+              "RelativeToolTip": "HRManagement.Persistence\\PersistanceServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:02:57.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InfrastructureServicesRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Infrastructure\\InfrastructureServicesRegistration.cs",
+              "RelativeDocumentMoniker": "HRManagement.Infrastructure\\InfrastructureServicesRegistration.cs",
+              "ToolTip": "C:\\Users\\ucade\\source\\repos\\HRManagement.Clear\\HRManagement.Infrastructure\\InfrastructureServicesRegistration.cs",
+              "RelativeToolTip": "HRManagement.Infrastructure\\InfrastructureServicesRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:02:06.97Z",
               "EditorCaption": ""
             }
           ]

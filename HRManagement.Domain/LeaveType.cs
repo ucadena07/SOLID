@@ -11,4 +11,5 @@ public class LeaveType : BaseEntity
 {
     public string Days { get; set; }
     public int DefaultDays { get; set; }
+    public string Name { get; set; }
 }

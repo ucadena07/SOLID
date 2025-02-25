@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FluentValidation.Results;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,5 +21,11 @@ public class BadRequestException : Exception
     {
 
     }
+    public BadRequestException(string message, ValidationResult validation):base(message) 
+    {
+        Errors = validation.Errors.Select(it => it.ErrorMessage).ToList();  
+    }
+
+    public List<string> Errors { get; set; }    
 }
 
