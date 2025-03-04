@@ -10,7 +10,7 @@ namespace HRManagement.Persistence;
 
 public static class PersistanceServiceRegistration
 {
-    public static IServiceCollection AddPersistance(this IServiceCollection services, IConfiguration configuration)
+    public static IServiceCollection AddPersistanceServices(this IServiceCollection services, IConfiguration configuration)
     {
         services.AddDbContext<HrDatabaseContext>(opts =>
         {

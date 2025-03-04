@@ -24,6 +24,7 @@ namespace HRManagement.Persistence.Configurations
                   });
 
             builder.Property(it => it.Name).IsRequired().HasMaxLength(100);  
+
         }
     }
 }

@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRManagement.Persistence", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRManagement.Infrastructure", "HRManagement.Infrastructure\HRManagement.Infrastructure.csproj", "{94B2E899-83D3-41A5-9174-795012A970CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRManagement.Api", "HRManagement.Api\HRManagement.Api.csproj", "{F85A7FB5-EB99-4DC7-8888-B8FC984B42A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{94B2E899-83D3-41A5-9174-795012A970CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94B2E899-83D3-41A5-9174-795012A970CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94B2E899-83D3-41A5-9174-795012A970CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F85A7FB5-EB99-4DC7-8888-B8FC984B42A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85A7FB5-EB99-4DC7-8888-B8FC984B42A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85A7FB5-EB99-4DC7-8888-B8FC984B42A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85A7FB5-EB99-4DC7-8888-B8FC984B42A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,5 +64,6 @@ Global
 		{3D442B26-6D2A-4E78-BBF5-558FAF3BB56B} = {0D35366D-7C0D-431E-8FF8-681B39B7FFC2}
 		{6A063977-DB84-4C65-AF9D-E59C63FAA28B} = {DBAFB755-4A89-4A39-9EE8-7998F1EAFD67}
 		{94B2E899-83D3-41A5-9174-795012A970CA} = {DBAFB755-4A89-4A39-9EE8-7998F1EAFD67}
+		{F85A7FB5-EB99-4DC7-8888-B8FC984B42A9} = {5EF9FA5F-9F98-47CA-94EE-CA32841709EA}
 	EndGlobalSection
 EndGlobal

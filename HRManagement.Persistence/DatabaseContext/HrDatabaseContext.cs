@@ -1,6 +1,7 @@
 ﻿using HRManagement.Domain;
 using HRManagement.Domain.Common;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Diagnostics;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -38,5 +39,13 @@ public class HrDatabaseContext : DbContext
             }
         }
         return base.SaveChangesAsync(cancellationToken);
+    }
+
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        optionsBuilder.ConfigureWarnings(warnings =>
+            warnings.Ignore(RelationalEventId.PendingModelChangesWarning));
+
+        base.OnConfiguring(optionsBuilder);
     }
 }

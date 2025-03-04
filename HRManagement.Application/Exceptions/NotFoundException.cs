@@ -13,6 +13,8 @@ public class NotFoundException : Exception
     {
         
     }
+
+    public IDictionary<string, string[]> ValidationErrors { get; set; }
 }
 
 public class BadRequestException : Exception
@@ -23,9 +25,9 @@ public class BadRequestException : Exception
     }
     public BadRequestException(string message, ValidationResult validation):base(message) 
     {
-        Errors = validation.Errors.Select(it => it.ErrorMessage).ToList();  
+        ValidationErrors = validation.ToDictionary();
     }
 
-    public List<string> Errors { get; set; }    
+    public IDictionary<string, string[]> ValidationErrors { get; set; }    
 }
 
